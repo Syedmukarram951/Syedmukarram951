@@ -44,3 +44,4 @@ Hi, I'm Syed Mukarram, a Data Scientist 🚀 from India. Currently, I'm  Doing I
 
 
 
+![Syed Mukarram github stats](https://github-readme-stats.vercel.app/api?username=Syed Mukarram&show_icons=true&hide_border=true)
