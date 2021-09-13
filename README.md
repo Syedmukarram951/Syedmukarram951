@@ -14,7 +14,7 @@
 
 <br />
 
-Hi, I'm Syed Mukarram, a Data Scientist 🚀 from India. Currently, I'm  Doing Internship at Spark Foundation. Exploring Data Science, I enjoy Swimming,Physical Excercise.
+Hi, I'm Syed Mukarram, a Data Analyst 🚀 from India. Currently working at Seymour Systems pvt.ltd. Exploring Data Science, I enjoy Swimming,Physical Excercise.
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
