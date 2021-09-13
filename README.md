@@ -25,7 +25,7 @@ Hi, I'm Syed Mukarram, a Data Analyst 🚀 from India. Currently working at Seym
 - 🤔 I’m somewhat fine with Machine Learning
 - 💬 Ask me about anything, I am happy to help to my knowledge
 - 📫 How to reach me: datascience.syedmukarram@gmail.com
-- 📝[Resume](https://github.com/Syedmukarram951/My_Updated_Resume/blob/main/My_Updated_Resume.pdf)
+- 📝[Resume](https://github.com/Syedmukarram951/Syed_Mukarram_Resume/blob/main/Syed_Mukarram_Resume.pdf)
 
 **Languages and Tools:**  
 
